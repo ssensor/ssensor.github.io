@@ -4,11 +4,13 @@ title: People
 permalink: /people/
 ---
 
-# People - Docs
+
+# People
+This is under docs
 
 ## Graduate Student
 
-박재은,  Ph.D Candiate
+2박재은,  Ph.D Candiate
 
 유지환, Master Degree candidate
 

@@ -6,12 +6,14 @@ permalink: /publication/
 
 # Publication
 
-
+this is under docs
 ##   
 
 # Publication: Journal  
 
 ## [Publication: Conference](Conference.md) 
+## [Project List](project.md)
+
 
 ### Research Area: 
 
