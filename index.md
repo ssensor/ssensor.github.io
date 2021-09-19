@@ -7,3 +7,5 @@
 layout: default
 title: Sleek Jekyll Theme
 ---
+
+Smart Sensor System Lab started in 2014, directed by Prof. Young-Keun Kim.
