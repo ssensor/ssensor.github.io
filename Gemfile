@@ -1,8 +1,6 @@
-#source "https://rubygems.org"
-#gemspec
-#gem "minimal-mistakes-jekyll"
+# frozen_string_literal: true
 
 source "https://rubygems.org"
-
-#gem "jekyll", "~> 3.7"
-gem "minimal-mistakes-jekyll"
+#gemspec
+gem "kramdown-parser-gfm"
+gem "jekyll-sleek"
