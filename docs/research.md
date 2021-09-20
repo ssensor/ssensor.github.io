@@ -7,8 +7,9 @@ permalink: /research/
 # Research Topics
 
 Research topics range from 
-* [Deep Learning Image Processing](/researchImage.md)
-* [Deep Learning Image Processing2](/docs/researchImage.md)
+* [Deep Learning Image Processing](/researchImage)
+* [Deep Learning Image Processing2](/researchImage.md)
+* [Deep Learning Image Processing3](/docs/researchImage.md)
 * [3D LiDAR Calibration](/researchLidar)
 * [Industrial AI](/researchAI)
 * [System Design with Smart Materials](/researchSM)
