@@ -4,21 +4,23 @@ title: Research
 permalink: /research/
 ---
 
+### How to link other md files
+[md link tutorials](/docs/md-link-tutorial)
+
 # Research Topics
 
 Research topics range from 
 works on both github and local
-* [Deep Learning Image Processing4](/docs/researchImage)
-* [Deep Learning Image Processing_3](/researchImg)
-* [Deep Learning Image DIP](/research/DIP)
-* [Industrial AI2](/docs/researchAI)
+* [Using built html](/docs/researchImage)
+* [Using Permanent link](/researchImg)
+* [Using permanent link2](/research/DIP)
+* [Using built html](/docs/researchAI)
 
 works only on  github
-* [Deep Learning Image Processing2](/researchImage.md)
+* [Using md file link](/researchImage.md)
 * [Deep Learning Image Processing5](researchImage.md)
 * [Deep Learning Image Processing7](/researchImage2.md)
 * [Deep Learning Image Processing_9](researchImg)
-
 * [Industrial AI](/researchAI)
 * [Industrial AI1](/researchAI.md)
 * [Industrial AI3](researchAI.md)
