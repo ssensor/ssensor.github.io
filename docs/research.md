@@ -7,21 +7,30 @@ permalink: /research/
 # Research Topics
 
 Research topics range from 
-works on github
-* [Deep Learning Image Processing2](/researchImage.md)
+works on both github and local
 * [Deep Learning Image Processing4](/docs/researchImage)
+* [Deep Learning Image Processing_3](/researchImg)
+* [Deep Learning Image DIP](/research/DIP)
+* [Industrial AI2](/docs/researchAI)
+
+works only on  github
+* [Deep Learning Image Processing2](/researchImage.md)
 * [Deep Learning Image Processing5](researchImage.md)
 * [Deep Learning Image Processing7](/researchImage2.md)
-* [Deep Learning Image Processing_3](/researchImg)
-* [Industrial AI](/researchAI.md)
-* [Industrial AI2](/docs/researchAI)
+* [Deep Learning Image Processing_9](researchImg)
+
+* [Industrial AI](/researchAI)
+* [Industrial AI1](/researchAI.md)
 * [Industrial AI3](researchAI.md)
+
 
 
 works on local
 * [Deep Learning Image Processing4](/docs/researchImage)
 * [Deep Learning Image Processing_3](/researchImg)
-* [Deep Learning Image Processing4](/docs/researchAI)
+* [Deep Learning Image DIP](/research/DIP)
+* [Industrial AI2](/docs/researchAI)
+
 
 
 * [3D LiDAR Calibration](/researchLidar)
