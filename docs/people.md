@@ -6,17 +6,35 @@ permalink: /people/
 
 
 # People
-This is under docs
+
+## Professor
+Young-Keun Kim, Ph.D.  
+
+<img src="../assets/img/youngkeun.jpg" width="40%" height="30%" title="student" alt="student"></img>
+* 2014: KAIST Mechanical Engineering, Ph.D 
+* 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
+* 2020: Visiting Scholoar at Virginia Tech Mechanical Engineering
+
+
 
 ## Graduate Student
 
-2박재은,  Ph.D Candiate
+박재은,  Ph.D Candiate
+
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+
 
 유지환, Master Degree candidate
 
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+
 김예진, Master Degree candidate
 
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+
 송형석, Master Degree candidate
+
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
 
 
 
@@ -25,7 +43,7 @@ This is under docs
 
 
 
-
+***
 # Alumni
 
 

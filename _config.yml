@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'People', link: '/people'}
-  - {name: 'Research', link: '/contact'}
+  - {name: 'Research', link: '/research'}
   - {name: 'Publication', link: '/publication'}
 
 tagline: >
