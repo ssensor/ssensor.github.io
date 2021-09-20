@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ResearchSensor
-permalink: /research/AI/
+permalink: /research/Lidar/
 ---
 
 
 
-# Industry Applied Intelligence
+# LiDAR based Pose Estimation and Calibration
 
 ## Topic 1
 ### Title
