@@ -10,6 +10,13 @@ Research topics range from
 * [Deep Learning Image Processing](/researchImage)
 * [Deep Learning Image Processing2](/researchImage.md)
 * [Deep Learning Image Processing3](/docs/researchImage.md)
+* [Deep Learning Image Processing4](/docs/researchImage)
+* [Deep Learning Image Processing5](researchImage.md)
+* [Deep Learning Image Processing6](researchImage)
+
+* [Deep Learning Image Processing7](/researchImage2.md)
+* [Deep Learning Image Processing8](/researchImage2)
+
 * [3D LiDAR Calibration](/researchLidar)
 * [Industrial AI](/researchAI)
 * [System Design with Smart Materials](/researchSM)
