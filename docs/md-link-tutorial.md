@@ -17,13 +17,3 @@ title: MD Link in Jekyll
 * [Using md file link](/researchImage.md)
 * [Using md file link 2](researchImage.md)
 * [Using md file link](/researchImage2.md)
-* [Using md file link](/researchAI.md)
-* [md file without extension](/researchAI)
-* [Using Permanent link](researchImg)
-
-
-works on local
-* [Deep Learning Image Processing4](/docs/researchImage)
-* [Deep Learning Image Processing_3](/researchImg)
-* [Deep Learning Image DIP](/research/DIP)
-* [Industrial AI2](/docs/researchAI)
