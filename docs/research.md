@@ -4,9 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-### How to link other md files
-[md link tutorials](/docs/md-link-tutorial)
-
 
 # Research Topics
 ### [Deep Learning Image Processing](/research/DIP)
@@ -14,68 +11,51 @@ permalink: /research/
 ### [Industrial AI](/research/AI)
 ### [Smart Material System](/research/SMS)
 
-
 ***
-# 대표성과
-# Deep Learning Image Processing
+ <br/><br/>
+# Recent Works
+<br/>
 
-## Topic 1
+## [Deep Learning Image Processing]
+
+### Light-Weight Object Detection for Embedded System
 ### Title
 Title goes here
 ### Abstract
 Abstract in English and Korean
 
 ### Link
-See for more detail
-Download paper here
+[See more research on this topic](/research/DIP)
 
+___
+ <br/>
 
-# 3D LiDAR Calibration and 6D Pose Estimation
+## [Vehicle LiDAR]
 
-## Topic 1
+### Extrinsic Calibration of Vehicle 3D LiDAR
 ### Title
 Title goes here
 ### Abstract
+Image goes here
+Video Clip Here
+
+[See more research on this topic](/research/DIP)
+
+___
+ <br/>
+
+## [Industrial AI]
+### Unsupervised Defect Detection for Wire Rod, Steel Industry
 Abstract in English and Korean
 
-### Link
-See for more detail
-Download paper here
+[See more research on this topic](/research/AI)
 
-
-# Industrial AI
-## Topic 1
-### Title
-Title goes here
-### Abstract
+___
+## Vibration Control with Smart Material System  ### Reinforcement Learning based Stiffness Control of a Tunable Vibration Absorber
 Abstract in English and Korean
-
-### Link
-See for more detail
-Download paper here
+[See more research on this topic](/research/SMS)
 
 
-# Research Topics
 
-Research topics range from 
-works on both github and local
-* [Using built html](/docs/researchImage)
-* [Using Permanent link](/researchImg)
-* [Using permanent link2](/research/DIP)
-* [Using built html](/docs/researchAI)
-
-works only on  github
-* [Using md file link](/researchImage.md)
-* [Deep Learning Image Processing5](researchImage.md)
-* [Deep Learning Image Processing7](/researchImage2.md)
-* [Deep Learning Image Processing_9](researchImg)
-* [Industrial AI](/researchAI)
-* [Industrial AI1](/researchAI.md)
-* [Industrial AI3](researchAI.md)
-
-
-works on local
-* [Deep Learning Image Processing4](/docs/researchImage)
-* [Deep Learning Image Processing_3](/researchImg)
-* [Deep Learning Image DIP](/research/DIP)
-* [Industrial AI2](/docs/researchAI)
+### How to link other md files
+[md link tutorials](/docs/md-link-tutorial)

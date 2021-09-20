@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ResearchSensor
+title: Industry Applied AI
 permalink: /research/AI/
 ---
 

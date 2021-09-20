@@ -4,28 +4,28 @@ title: Publication
 permalink: /publication/
 ---
 
-# Publication
-
-this is under docs
-##   
-
-# Publication: Journal  
-
-## [Publication: Conference](Conference.md) 
-## [Project List](project.md)
-
-
+# Publication: Journal
 ### Research Area: 
 
-* Sensor / Deep Learning / Machine Learning / Robotics
+* [Sensor / Deep Learning / Machine Learning / Robotics](#Sensor/AI/Robotics)
+* [Vibration / Smart Material](# VIBRATION/SMART-MATERIAL)
 
-* Vibration / Smart Material
+<br/>
+
+See also
+    
+### [Publication: Conference](Conference.md)
+### [Project:](project.md)
+
 
 ------
 
+<br/>
+<br/>
 
 
-# Sensor / Deep Learning / Machine Learning / Robotics
+
+# Sensor/AI/Robotics
 
 ## SCI(E)
 
@@ -59,9 +59,11 @@ this is under docs
 7. Jae-Eun Park, Chang-Hyun Lim, Tae-Sung Kim,Young-Keun Kim, "Design of Electronic Parking Brake Control Simulator for Emergency Vehicle Braking", Transactions of The Korean Society of Automotive Engineers - Vol. 25, No. 1, pp.19-27, 2017 (SCOPUS,KCI) 박 재 은․ 임 창 현․김 태 성․김 영 근, "차량 비상제동을 위한 전자식 주차 브레이크 제어 시뮬레이터 설계, 한국자동차공학회 논문집, 2017.
 8. Wonsuk Jung, Young-Keun Kim, Soohyun Kim, "Design of Omnidirectional Shock Absorption Mechanism and Stabilizing Dynamic Posture of Miniature Sphere Type Throwing Robo)" , Journal of Institute of Control, Robotics and Systems(in Korean) vol22, no4, 2016 (SCOPUS, KCI) 정원석, 김영근, 김수현, 구형 투척 로봇의 전방향 충격흡수 구조 설계 및 동적 자세 안정화, 제어로봇시스템학회 논문지, 2016
 
+---
+<br/>
+<br/>
 
-
-# VIBRATION / SMART MATERIAL 
+# VIBRATION/SMART-MATERIAL 
 
 ## SCI(E)
 

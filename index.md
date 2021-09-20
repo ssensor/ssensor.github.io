@@ -5,7 +5,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Jekyll Theme
+title: Welcome to SSS LAB
 ---
 
-Smart Sensor System Lab started in 2014, directed by Prof. Young-Keun Kim.
+
+<img src="assets/img/favicon.jpg" width="20px" height="10px" title="SSSLAB_Logo"/>
+
+![SSSLAB](assets/img/ssslabmain.jpg)  

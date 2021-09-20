@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ResearchSensor
+title: Smart Material for Vibration Control 
 permalink: /research/SMS/
 ---
 
 
 
-# Smart Material based Systems
+# Smart Material based Systems and Vibration
 
 ## Topic 1
 ### Title

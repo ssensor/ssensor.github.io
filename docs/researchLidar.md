@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ResearchSensor
+title: 3D LiDAR
 permalink: /research/Lidar/
 ---
 

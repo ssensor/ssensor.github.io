@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ResearchSensor
-permalink: /research/DIP/
+permalink: /research/DIPS/
 ---
 
 # Deep Learning Image Processing
