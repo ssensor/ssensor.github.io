@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ResearchSensor
-permalink: /research/
+permalink: /researchImg/
 ---
 
 
