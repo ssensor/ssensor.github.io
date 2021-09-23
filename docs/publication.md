@@ -7,8 +7,8 @@ permalink: /publication/
 # Publication: Journal
 ### Research Area: 
 
-* [Sensor / Deep Learning / Machine Learning / Robotics](#Sensor/AI/Robotics)
-* [Vibration / Smart Material](# VIBRATION/SMART-MATERIAL)
+* [Sensor / Deep Learning / Machine Learning / Robotics](#Sensor-AI-Robotics)
+* [Vibration / Smart Material](#VIBRATION-SMARTMATERIAL)
 
 <br/>
 
@@ -25,7 +25,7 @@ See also
 
 
 
-# Sensor/AI/Robotics
+# Sensor AI Robotics
 
 ## SCI(E)
 
@@ -63,7 +63,7 @@ See also
 <br/>
 <br/>
 
-# VIBRATION/SMART-MATERIAL 
+# VIBRATION SMARTMATERIAL 
 
 ## SCI(E)
 
