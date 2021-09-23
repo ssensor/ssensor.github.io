@@ -34,7 +34,7 @@ Young-Keun Kim, Ph.D.
 
 유지환, Master Degree candidate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+<img src="../assets/img/yjh.png" width="10%" title="student" alt="student">
 
 
 <br/>
