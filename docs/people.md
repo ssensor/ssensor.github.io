@@ -54,7 +54,7 @@ Young-Keun Kim, Ph.D.
 | -------- | ------ | ------------------------------------------------------------ | ---- | ------------------------------ | ---------------------- | --------------- |
 | 2017     | 장찬희 | Mono-Vision based Vehicle Localization using Road Sign On-line Database (온라인 도로 표지판 정보를 사용한 단일 카메라 기반의 차량 위치추정 연구) | 석사 | ATI (Advanced Technology Inc.) | 데이터사이언스팀       | 반도체 머신비전 |
 | 2019     | 박재은 |                                                              | 석사 | 한동대학교 기계제어공학과      | 박사과정               |                 |
-| 2020     | 오선택 | 시각장애인 보행 보조를 위한 임베디드 플랫폼 기반 딥러닝 영상처리 알고리즘 가속화 연구 | 석사 | 위씨 (창업)                    | 영상기반 지능형 시스템 |                 |
+| 2020     | 오선택 | Development of Compressed Deep Neural Networks based Object Detection Algorithm for Implementation on FPGA Embedded Platform (FPGA 임베디드 플랫폼 탑재를 위한 심층신경망 압축모델 기반 객체탐지 알고리즘 개발) | 석사 | 위씨 (창업)                    | 영상기반 지능형 시스템 |                 |
 
 
 
