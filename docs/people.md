@@ -47,7 +47,7 @@ Young-Keun Kim, Ph.D.
 
 김예진, Master Degree candidate
 
-<img src="../assets/img/yejin.jpg" width="15%"  title="student" alt="student">
+<img src="../assets/img/yejin.jpg" width="10%"  title="student" alt="student">
 
 <br/>
 
