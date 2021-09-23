@@ -8,7 +8,7 @@ layout: default
 title: Welcome to SSS LAB
 ---
 
-<link rel="stylesheet" href="/assets/css/main.css" ></link> 
+<link rel="stylesheet" href="/assets/css/main.css"></link> 
 
 <img src="assets/img/favicon.jpg"  title="SSSLAB_Logo" class="center" style="width:20%"/>
 
