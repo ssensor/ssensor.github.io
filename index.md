@@ -7,12 +7,7 @@
 layout: default
 title: Welcome to SSS LAB
 ---
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 
 <img src="assets/img/favicon.jpg"  title="SSSLAB_Logo" class="center" style="width:20%"/>
 
