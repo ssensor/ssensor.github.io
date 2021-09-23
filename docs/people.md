@@ -12,7 +12,7 @@ ___
 ## Professor
 Young-Keun Kim, Ph.D.  
 
-<img src="../assets/img/youngkeun.jpg" width="30%"  title="prof" alt="prof">
+<img src="../assets/img/youngkeun.jpg" width="10%"  title="prof" alt="prof">
 
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
