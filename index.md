@@ -8,10 +8,11 @@ layout: default
 title: Welcome to SSS LAB
 ---
 
-
-<img src="assets/img/favicon.jpg" width="20px" height="10px" title="SSSLAB_Logo">
-
+<img src="assets/img/favicon.jpg"  title="SSSLAB_Logo" class="center" style="width:20%">
 ![SSSLAB](assets/img/ssslabmain.jpg)  
 
-<img src="assets/img/favicon.jpg"  title="SSSLAB_Logo" class="center" style="width:20%">
+
+<img src="assets/img/favicon.jpg" width="20px" height="10px" title="SSSLAB_Logo">
 <img src="assets/img/ssslabmain.jpg" title="SSSLAB_Logo" class="center" style="width:75%">
+
+
