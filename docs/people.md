@@ -17,7 +17,7 @@ Young-Keun Kim, Ph.D.
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
 * 2020: Visiting Scholoar at Virginia Tech Mechanical Engineering
-* 2017~19: Head ofMechanical and Control Engineering,HGU
+* 2017~19: Head of Mechanical and Control Engineering,HGU
 
 
 <br/>
