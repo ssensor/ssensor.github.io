@@ -6,6 +6,8 @@ permalink: /people/
 
 
 # People
+
+<img src="../assets/img/ssslab-members.jpg" width="75%"  title="prof" alt="prof">
 ___
 <br/>
 
@@ -45,7 +47,7 @@ Young-Keun Kim, Ph.D.
 
 김예진, Master Degree candidate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+<img src="../assets/img/yejin.jpg" width="40%" height="30%" title="student" alt="student">
 
 <br/>
 
