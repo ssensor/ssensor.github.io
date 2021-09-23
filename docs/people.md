@@ -35,24 +35,17 @@ Young-Keun Kim, Ph.D.
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
 
 
-<<<<<<< HEAD
 <br/>
-=======
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
->>>>>>> 1f8054b9daf84634d45726af23156a666d1667cb
 
 송형석, Master Degree candidate
 
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
-<<<<<<< HEAD
 
 <br/>
 
 김예진, Master Degree candidate
 
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
-=======
->>>>>>> 1f8054b9daf84634d45726af23156a666d1667cb
 
 <br/>
 
