@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-# People
+# LAB Members
 
 <img src="../assets/img/ssslab-members.jpg" width="75%"  title="prof" alt="prof">
 ___
