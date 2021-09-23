@@ -10,7 +10,7 @@ permalink: /people/
 ## Professor
 Young-Keun Kim, Ph.D.  
 
-<img src="../assets/img/youngkeun.jpg" width="40%" height="30%" title="student" alt="student"></img>
+<img src="../assets/img/youngkeun.jpg" width="20%" height="15%" title="student" alt="student"></img>
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
 * 2020: Visiting Scholoar at Virginia Tech Mechanical Engineering
