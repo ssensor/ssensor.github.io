@@ -17,4 +17,6 @@ title: Welcome to SSS LAB
 <img src="assets/img/favicon.jpg" width="20px" height="10px" title="SSSLAB_Logo">
 <img src="assets/img/ssslabmain.jpg" title="SSSLAB_Logo" class="center" style="width:75%">
 
+<img src="assets/img/ssslabmain.jpg" title="SSSLAB_Logo">
+
 
