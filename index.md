@@ -11,5 +11,5 @@ title: Welcome to SSS LAB
 
 <img src="/assets/img/favicon.jpg" width="20px" height="10px" title="SSSLAB_Logo">
 
-![SSSLAB](/assets/img/ssslabmain.jpg)  
+![SSSLAB](assets/img/ssslabmain.jpg)  
 
