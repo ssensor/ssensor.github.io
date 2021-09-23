@@ -12,8 +12,12 @@ ___
 ## Professor
 Young-Keun Kim, Ph.D.  
 
+<<<<<<< HEAD
 <img src="../assets/img/youngkeun.jpg" width="30%"  title="prof" alt="prof">
 
+=======
+<img src="../assets/img/youngkeun.jpg" width="20%" height="15%" title="student" alt="student">
+>>>>>>> 1f8054b9daf84634d45726af23156a666d1667cb
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
 * 2020: Visiting Scholoar at Virginia Tech Mechanical Engineering
@@ -35,17 +39,24 @@ Young-Keun Kim, Ph.D.
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
 
 
+<<<<<<< HEAD
 <br/>
+=======
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+>>>>>>> 1f8054b9daf84634d45726af23156a666d1667cb
 
 송형석, Master Degree candidate
 
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+<<<<<<< HEAD
 
 <br/>
 
 김예진, Master Degree candidate
 
 <img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+=======
+>>>>>>> 1f8054b9daf84634d45726af23156a666d1667cb
 
 <br/>
 
