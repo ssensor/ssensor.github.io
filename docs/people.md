@@ -6,37 +6,50 @@ permalink: /people/
 
 
 # People
+___
+<br/>
 
 ## Professor
 Young-Keun Kim, Ph.D.  
 
-<img src="../assets/img/youngkeun.jpg" width="20%" height="15%" title="student" alt="student"></img>
+<img src="../assets/img/youngkeun.jpg" width="30%"  title="prof" alt="prof">
+
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
 * 2020: Visiting Scholoar at Virginia Tech Mechanical Engineering
+* 2017~19: Head ofMechanical and Control Engineering,HGU
 
 
+<br/>
 
 ## Graduate Student
 
 박재은,  Ph.D Candiate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
 
+<br/>
 
 유지환, Master Degree candidate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
 
-김예진, Master Degree candidate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+<br/>
 
 송형석, Master Degree candidate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student"></img>
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
 
+<br/>
 
+김예진, Master Degree candidate
+
+<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+
+<br/>
+
+<br/>
 
 ## Undergraduate Research 
 
@@ -44,6 +57,10 @@ Young-Keun Kim, Ph.D.
 
 
 ***
+
+<br/>
+<br/>
+
 # Alumni
 
 
@@ -53,8 +70,8 @@ Young-Keun Kim, Ph.D.
 | 졸업연도 | 이름   | 졸업연구 주제명                                              | 학위 | 회사명/대학원명                | 부서                   | 비고            |
 | -------- | ------ | ------------------------------------------------------------ | ---- | ------------------------------ | ---------------------- | --------------- |
 | 2017     | 장찬희 | Mono-Vision based Vehicle Localization using Road Sign On-line Database (온라인 도로 표지판 정보를 사용한 단일 카메라 기반의 차량 위치추정 연구) | 석사 | ATI (Advanced Technology Inc.) | 데이터사이언스팀       | 반도체 머신비전 |
-| 2019     | 박재은 | Research of Deep Reinforcement Learning based Control System Design for a Nonlinear Tunable Vibration Absorber using Smart Rubber(심층인공신경망 강화학습을 통한 스마트고무 기반 비선형 진동흡수기 제어시스템 설계 연구)                                                             | 석사 | 한동대학교 기계제어공학과      | 박사과정               |                 |
-| 2020     | 오선택 | Development of Compressed Deep Neural Networks based Object Detection Algorithm for Implementation on FPGA Embedded Platform (FPGA 임베디드 플랫폼 탑재를 위한 심층신경망 압축모델 기반 객체탐지 알고리즘 개발) | 석사 | 위씨 (창업)                    | 영상기반 지능형 시스템 |                 |
+| 2019     | 박재은 |                                                              | 석사 | 한동대학교 기계제어공학과      | 박사과정               |                 |
+| 2020     | 오선택 | 시각장애인 보행 보조를 위한 임베디드 플랫폼 기반 딥러닝 영상처리 알고리즘 가속화 연구 | 석사 | 위씨 (창업)                    | 영상기반 지능형 시스템 |                 |
 
 
 
