@@ -37,6 +37,12 @@ ___
 
 <img src="docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
+<img src="../docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
+
+<img src="https://ssensor.github.io/docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
+
+
+
 This repository contains a modified version of  Pytorch YOLOv3 + Deep Sort (https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch). It is a program that counts the number of people and predicts the direction of movement using the bounding box coordinates obtained by tracking algorithm.
 
 This project was carried out as a 2021-1 MIP by H.J. Kim
