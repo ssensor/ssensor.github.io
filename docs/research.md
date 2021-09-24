@@ -49,13 +49,16 @@ ___
 
 ### Extrinsic Calibration of Vehicle 3D LiDAR
 
+#### Accurate Alignment Inspection System for Low-Resolution Automotive LiDAR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Title
-Title goes here
-### Abstract
-Image goes here
-Video Clip Here
+#### LiDAR Sensor Alignment Inspection System for Automobile Productions Using 1-D Photodetector Arrays
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5RCuJTI90ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Reference
+* You, Ji Hwan, Seontaek Oh, Jae Eun Park, Hyeongseok Song, and Young Keun Kim, ‘A Novel LiDAR Sensor Alignment Inspection System for Automobile Productions Using 1-D Photodetector Arrays’, Measurement, 183 (2021), 109817 https://doi.org/10.1016/J.MEASUREMENT.2021.109817
+* Oh, Seontaek, Ji-Hwan You, Azim Eskandarian, and Young-Keun Kim. “Accurate Alignment Inspection System for Low-Resolution Automotive LiDAR.” IEEE Sensors Journal 21, no. 10 (2021): 11961-11968.
+
 
 [See more research on this topic](/research/DIP)
 
