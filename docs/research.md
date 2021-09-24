@@ -29,12 +29,12 @@ Abstract in English and Korean
 
 ___
 ### Light-Weight Object Detection with SORT for Object Tracking
-1
+1. (git)
 
 <img src=".\research\images\demo.gif" alt="demo" style="zoom:50%;" />
 [YOffleNet Deep Sort in PyTorch](https://github.com/hkim1207/2021MIP)
 
-2
+2 (git)
 
 <img src="./research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
@@ -42,12 +42,12 @@ ___
 
 <img src="docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
-4
+4 (both)
 
 
 <img src="../docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
-5
+5 (both)
 
 <img src="https://ssensor.github.io/docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
