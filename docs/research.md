@@ -29,28 +29,9 @@ Abstract in English and Korean
 
 ___
 ### Light-Weight Object Detection with SORT for Object Tracking
-1. (git)
-
-<img src=".\research\images\demo.gif" alt="demo" style="zoom:50%;" />
 [YOffleNet Deep Sort in PyTorch](https://github.com/hkim1207/2021MIP)
 
-2 (git)
-
-<img src="./research/images/demo.gif" alt="demo" style="zoom:50%;" />
-
-3
-
-<img src="docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
-
-4 (both)
-
-
 <img src="../docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
-
-5 (web)
-
-<img src="https://ssensor.github.io/docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
-
 
 
 This repository contains a modified version of  Pytorch YOLOv3 + Deep Sort (https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch). It is a program that counts the number of people and predicts the direction of movement using the bounding box coordinates obtained by tracking algorithm.
