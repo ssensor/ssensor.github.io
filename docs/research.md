@@ -29,15 +29,25 @@ Abstract in English and Korean
 
 ___
 ### Light-Weight Object Detection with SORT for Object Tracking
+1
 
 <img src=".\research\images\demo.gif" alt="demo" style="zoom:50%;" />
 [YOffleNet Deep Sort in PyTorch](https://github.com/hkim1207/2021MIP)
 
+2
+
 <img src="./research/images/demo.gif" alt="demo" style="zoom:50%;" />
+
+3
 
 <img src="docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
+4
+
+
 <img src="../docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
+
+5
 
 <img src="https://ssensor.github.io/docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
