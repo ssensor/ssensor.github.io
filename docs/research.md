@@ -47,7 +47,7 @@ ___
 
 <img src="../docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
-5 (both)
+5 (web)
 
 <img src="https://ssensor.github.io/docs/research/images/demo.gif" alt="demo" style="zoom:50%;" />
 
