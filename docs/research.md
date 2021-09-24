@@ -53,6 +53,9 @@ ___
 #### Accurate Alignment Inspection System for Low-Resolution Automotive LiDAR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="890" height="500" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### LiDAR Sensor Alignment Inspection System for Automobile Productions Using 1-D Photodetector Arrays
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5RCuJTI90ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
