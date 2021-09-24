@@ -28,7 +28,7 @@ Young-Keun Kim, Ph.D.
 
 박재은,  Ph.D Candiate
 
-<img src="../assets/img/profile.png" width="40%" height="30%" title="student" alt="student">
+<img src="../assets/img/jepark.jpg" width="10%" title="student" alt="student">
 
 <br/>
 
