@@ -18,14 +18,34 @@ permalink: /research/
 
 ## [Deep Learning Image Processing]
 
-### Light-Weight Object Detection for Embedded System
-### Title
-Title goes here
-### Abstract
-Abstract in English and Korean
+### YoffleNet: Light-Weight Object Detection for Embedded System
 
-### Link
+![corona-defected](../docs/research/images/yofflenet.jpg)
+
+
+
+### Application of a Lightweight CNN Model for Detecting Defects in Substation Insulators with Drone EO/IR Camera 
+
+변전소 불량애자 검출을 위한 드론 EO/IR 영상 기반의 경량화 객체탐지 모델 응용 사례
+
+
+
+<img src="../docs/research/images/corona-intro.png" alt="demo" style="zoom:50%;" />
+
+![corona-defected](../docs/research/images/corona1.png)
+
+
+
 [See more research on this topic](/research/DIP)
+
+<br/>
+
+<br/>
+
+___
+
+___
+
 
 ___
 ### Light-Weight Object Detection with SORT for Object Tracking
