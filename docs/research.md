@@ -20,20 +20,20 @@ permalink: /research/
 
 ### YoffleNet: Light-Weight Object Detection for Embedded System
 
-<img src="../docs/research/images/yofflenet.JPG" alt="yofflenet" style="zoom:75%; />
-<br/><br/>
-                                                                        
+<img src="../docs/research/images/yofflenet.JPG" alt="yofflenet" style="zoom:75%;" />
+
+<br/>
+
 ### Application of a Lightweight CNN Model for Detecting Defects in Substation Insulators with Drone EO/IR Camera 
 
 변전소 불량애자 검출을 위한 드론 EO/IR 영상 기반의 경량화 객체탐지 모델 응용 사례
-<br/>
 
-<img src="../docs/research/images/corona-intro.png" alt="demo" style="zoom:75%; />
+<img src="../docs/research/images/corona-intro.png" alt="demo" style="zoom:75%;" />
 
-
-<img src="../docs/research/images/corona1.png" alt="demo" style="zoom:75%; />
+<img src="../docs/research/images/corona1.png" alt="demo" style="zoom:75%;" />
 
 <br/>
+
 
 [See more research on this topic](/research/DIP)
 
