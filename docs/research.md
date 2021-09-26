@@ -89,8 +89,19 @@ ___
  <br/>
 
 ## [Industrial AI]
+
+### Prediction of Parking Free Space 
+
+포항시 스마트 시티 주차안내 시스템 - 주차 여유 공간 예측 알고리즘 개발:  WeSEE X HGU SSS Lab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpNni2Jw3Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
 ### Unsupervised Defect Detection for Wire Rod, Steel Industry
 Abstract in English and Korean
+
+<br/>
 
 [See more research on this topic](/research/AI)
 
