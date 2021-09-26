@@ -20,7 +20,7 @@ permalink: /research/
 
 ### YoffleNet: Light-Weight Object Detection for Embedded System
 
-![corona-defected](../docs/research/images/yofflenet.JPG)
+![yofflenet](../docs/research/images/yofflenet.JPG)
 
 
 
@@ -30,7 +30,7 @@ permalink: /research/
 
 
 
-<img src="../docs/research/images/corona-intro.png" alt="demo" style="zoom:50%;" />
+<img src="../docs/research/images/corona-intro.png" alt="demo" />
 
 ![corona-defected](../docs/research/images/corona1.png)
 
@@ -71,13 +71,13 @@ ___
 ### Extrinsic Calibration of Vehicle 3D LiDAR
 
 #### Accurate Alignment Inspection System for Low-Resolution Automotive LiDAR
-<iframe width="560" height="315" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="890" height="500" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/koUs_ZEUY6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### LiDAR Sensor Alignment Inspection System for Automobile Productions Using 1-D Photodetector Arrays
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5RCuJTI90ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="672" height="378" src="https://www.youtube.com/embed/5RCuJTI90ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Reference
 * You, Ji Hwan, Seontaek Oh, Jae Eun Park, Hyeongseok Song, and Young Keun Kim, ‘A Novel LiDAR Sensor Alignment Inspection System for Automobile Productions Using 1-D Photodetector Arrays’, Measurement, 183 (2021), 109817 https://doi.org/10.1016/J.MEASUREMENT.2021.109817
