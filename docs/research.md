@@ -95,7 +95,9 @@ Abstract in English and Korean
 [See more research on this topic](/research/AI)
 
 ___
-## Vibration Control with Smart Material System  ### Reinforcement Learning based Stiffness Control of a Tunable Vibration Absorber
+## Vibration Control with Smart Material System  
+
+### Reinforcement Learning based Stiffness Control of a Tunable Vibration Absorber
 Abstract in English and Korean
 [See more research on this topic](/research/SMS)
 
