@@ -20,7 +20,7 @@ permalink: /research/
 
 ### YoffleNet: Light-Weight Object Detection for Embedded System
 
-![corona-defected](../docs/research/images/yofflenet.jpg)
+![corona-defected](../docs/research/images/yofflenet.JPG)
 
 
 
