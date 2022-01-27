@@ -4,11 +4,11 @@ If Installation process is already done, go to **Running Local Server**
 
 # Installation
 
-## Installation-Window
+## 1. Installation-Window (default)
 
 Jekyll is a Ruby gem. First, install Ruby on your machine. 
 
-### Ruby Installation via RubyInstaller
+### Ruby Installation
 
 The easiest way to install Ruby and Jekyll is by using the [RubyInstaller](https://rubyinstaller.org/) for Windows.
 
@@ -22,11 +22,29 @@ RubyInstaller is a self-contained Windows-based installer that includes the Ruby
 
 3. Open a new command prompt window from the start menu, so that changes to the `PATH` environment variable becomes effective.
 
-#### NodeJS (8 or greater)
+### NodeJS (8 or greater) / Gulp
 
 Download and open the [NodeJS installer](https://nodejs.org/en/)
 
-#### 
+
+
+In cmd(administration), update npm
+
+```
+npm install -g npm
+
+npm install -g --production windows-build-tools
+```
+
+
+
+(optional) Install Gulp CLI
+
+```
+npm install --global gulp-cli
+```
+
+
 
 ### Jekyll Installation
 
@@ -41,21 +59,30 @@ Download and open the [NodeJS installer](https://nodejs.org/en/)
 
    # 
 
-### Up & Running
+### Install bundle/npm in Git Directory
 
 1. [Fork the repo](https://github.com/janczizikow/sleek/fork)(github blog)
 
 2. Clone or download the repo into directory of your choice: `git clone https://github.com/your-github-username/sleek.git`
 
-3. Go to the git directory and Inside the directory run `bundle install` ~~and `npm install`~~
+3. Go to the website git directory and Inside the directory run `bundle install`
 
    ```
    bundle install
    ```
 
-4. ~~If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`~~
+4. In the same directory, Install npm
+
+   ``` 
+   npm install
+   ```
+
+   ​
+
+5. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`~~
 
    - ~~if you don't want to use gulp you can run `bundle exec jekyll serve` instead~~
+
 
 
 
@@ -126,6 +153,13 @@ Next, update your Ruby gems:
 gem update
 
 ```
+
+> It no permission is given (e.g. You don't have write permissions for the /var/lib/gems/2.5.0 directory.), then, edit /.bashrc
+>
+> `# Ruby exports`
+>
+> `export GEM_HOME=$HOME/gems`
+> `export PATH=$HOME/gems/bin:$PATH`
 
 Install Jekyll:
 
