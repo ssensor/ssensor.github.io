@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "News: AI Inspection "
-featured-img: sleek
+title: "News: AI Inspection"
 categories: [News, Guides]
 ---
 
