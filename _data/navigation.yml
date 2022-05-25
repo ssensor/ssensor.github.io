@@ -1,0 +1,159 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Home"
+  #  url: /home/
+  - title: "About"
+    url: /about/
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Category"
+  #   url: "/categories/"
+  #- title: "Tags"
+  #  url: /tags/    
+  - title: "People"
+    url: /people/
+  - title: "Research"
+    url: /research/
+  - title: "Publication"
+    url: /publication/
+  - title: "Undergraduate"
+    url: /undergraduate/
+
+# Side bar contents
+docs-research:
+  - title: AI/Sensor
+    children:
+      - title: "Industrial AI"
+        url: /ai/
+      - title: "2D Image"
+        url: /dlip/
+      - title: "LiDAR"
+        url: /lidar/
+
+  - title: SmartMaterial
+    children:
+      - title: "Sensor"
+        url: /sms/
+      - title: "Vibration"
+        url: /sms/
+
+  - title: Publication
+    children:
+      - title: "Journal"
+        url: /publication/
+      - title: "Conference"
+        url: /publication/#publication-conference
+      - title: "Project"
+        url: /project/
+
+   
+  
+# Side bar contents
+docs-pulication:
+  - title: Industrial AI, Sensor, Robotics
+    children:
+      - title: "SCIE"
+        url: /docs/quick-start-guide/
+      - title: "KCI"
+        url: /docs/structure/
+      - title: "Intl Conference"
+        url: /docs/installation/
+      - title: "Domestic Conference"
+        url: /docs/upgrading/
+
+  - title: Smart Material, Vibration Control
+    children:
+      - title: "SCIE"
+        url: /docs/quick-start-guide/
+      - title: "KCI"
+        url: /docs/structure/
+      - title: "Intl Conference"
+        url: /docs/installation/
+      - title: "Domestic Conference"
+        url: /docs/upgrading/
+
+
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+
+# # Side bar contents
+# docs:
+#   - title: Getting Started
+#     children:
+#       - title: "Quick-Start Guide"
+#         url: /docs/quick-start-guide/
+#       - title: "Structure"
+#         url: /docs/structure/
+#       - title: "Installation"
+#         url: /docs/installation/
+#       - title: "Upgrading"
+#         url: /docs/upgrading/
+
+#   - title: Customization
+#     children:
+#       - title: "Configuration"
+#         url: /docs/configuration/
+#       - title: "Navigation"
+#         url: /docs/navigation/
+#       - title: "UI Text"
+#         url: /docs/ui-text/
+#       - title: "Authors"
+#         url: /docs/authors/
+#       - title: "Layouts"
+#         url: /docs/layouts/
+
+#   - title: Content
+#     children:
+#       - title: "Working with Posts"
+#         url: /docs/posts/
+#       - title: "Working with Pages"
+#         url: /docs/pages/
+#       - title: "Working with Collections"
+#         url: /docs/collections/
+#       - title: "Helpers"
+#         url: /docs/helpers/
+#       - title: "Utility Classes"
+#         url: /docs/utility-classes/
+
+#   - title: Extras
+#     children:
+#       - title: "Stylesheets"
+#         url: /docs/stylesheets/
+#       - title: "JavaScript"
+#         url: /docs/javascript/
+
+# Sidebar Map
+sidebar:
+  - title: "SSS LAB - HGU"
+    children:
+    - title: "Address"
+      image: http://placehold.it/350x250
+      image_alt: "image"
+      text: "Address: 경북 포항시 북구 흥해읍 한동대학교 뉴턴홀 107호 "
+  - title: "Contact"
+    text: "Prof. Young-Keun Kim,  ykkim@handong.edu"
+    text: "김영근 교수,  ykkim@handong.edu"

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "News: AI Inspection"
-categories: [News, Guides]
+categories: ai
 ---
 
 # 한동대-현대제철(포항공장), AI기반 특수강 결함분류 자동화 기술 도입
