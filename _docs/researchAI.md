@@ -18,23 +18,9 @@ related: true
 
 
 
-# 
 
-
-
-## Industrial AI 
-
-### Prediction of Parking Free Space
-
-포항시 스마트 시티 주차안내 시스템 - 주차 여유 공간 예측 알고리즘 개발:  WeSEE X HGU SSS Lab
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MpNni2Jw3Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
-
-
-### Unsupervised Defect Detection for Wire Rod, Steel Industry
+# Industrial AI:  Fault Monitoring and Prediction
+## Unsupervised Defect Detection for Wire Rod, Steel Industry
 
 2022.01.13 10:24
 
@@ -44,7 +30,22 @@ https://m.etnews.com/20220113000057
 
 <br/>
 
-### EEG-inception: an accurate and robust end-to-end neural network for EEG-based motor imagery classification
+
+# Industrial AI:  Smart City
+
+## Prediction of Parking Free Space
+
+포항시 스마트 시티 주차안내 시스템 - 주차 여유 공간 예측 알고리즘 개발:  WeSEE X HGU SSS Lab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpNni2Jw3Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+
+
+
+# Industrial AI: Network Model
+## EEG-inception: an accurate and robust end-to-end neural network for EEG-based motor imagery classification
 
 
 
