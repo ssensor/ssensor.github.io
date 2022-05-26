@@ -15,21 +15,21 @@ feature_row:
     alt: "customizable"
     title: "Research"
     excerpt: "Industrial AI, LiDAR, Image Processing, Vibration"
-    url: "/docs/configuration/"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/publication_icon.png
     alt: "fully responsive"
     title: "Publication"
     excerpt: "Journal, Conference, Project list"
-    url: "/docs/layouts/"
+    url: "/publication/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/aboutus_icon.png
     alt: "people"
     title: "About"
     excerpt: About Lab and members
-    url: "/docs/license/"
+    url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
     
