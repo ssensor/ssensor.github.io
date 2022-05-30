@@ -58,7 +58,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/posteraward_ksme_2022.png
+  - image_path: /assets/images/ksme-capstone-award.jpg
     alt: "placeholder image 2"
     title: "캡스톤디자인경진대회  최우수상 대한기계학회 IT융합부문 2022넌 춘계학술대회 "
     excerpt: '캡스톤디자인경진대회  최우수상 수상: 대한기계학회 IT융합부문 2022넌 춘계학술대회.  회전체 볼 결함 진단을 위한 CNN 모델 설계와 Grad-Cam을 이용한 진단결과 해석 연구- 김예진, 전현직, 김영근'
@@ -85,8 +85,8 @@ intro:
 ------
 # Highlights
 
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 ------
