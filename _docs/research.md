@@ -37,6 +37,30 @@ feature_row3:
     url: "/sms"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
+
+feature_row5:
+  - image_path: /assets/images/iai_icon.png
+    //title: "Industrial AI"
+    alt: "Industrial AI"
+    excerpt: "AI for Fault Diagnosis and Prediction, Quality Inspection, Manufacturing Process Optimization"
+    url: "/ai"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/lidar_icon.png
+    alt: "2D/3D Perception"
+    //title: "2D/3D Perception"
+    excerpt: "LiDAR Alignment Inspection, Extrinsic Calibration, 3D Object Detection, Super-Resolution"
+    url: "/lidar"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"    
+  - image_path: /assets/images/sm_icon.png
+    alt: "Smart Structure"
+    //title: "Smart Structure"
+    excerpt: "Vibration, Friction Control, Sensor based on Smart Material. Energy System with Smart Material"
+    url: "/sms"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"    
     
 ---
 
@@ -44,15 +68,17 @@ feature_row3:
 
 
 
-## Industrial AI
+ <br/>
+
+### Industrial AI
 
 {% include feature_row id="feature_row" type="left" %}
 
-## 2D-3D Perception
+### 2D-3D Perception
 
 {% include feature_row id="feature_row2" type="left" %}
 
-## Smart Material System
+### Smart Material System
 
 {% include feature_row id="feature_row3" type="left" %}
 
@@ -63,21 +89,6 @@ feature_row3:
 
 
 
-# Highlights
 
-<br/>
-
-
-
-### Prediction of Parking Free Space
-
-포항시 스마트 시티 주차안내 시스템 - 주차 여유 공간 예측 알고리즘 개발:  WeSEE X HGU SSS Lab
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MpNni2Jw3Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
-### Unsupervised Defect Detection for Wire Rod, Steel Industry
-Abstract in English and Korean
 
 <br/>

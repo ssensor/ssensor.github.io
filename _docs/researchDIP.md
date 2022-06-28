@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Perception 2D
-permalink: /dlip/
+permalink: /dlip2/
 sidebar:
   title: "Research"
   nav: "docs-research"

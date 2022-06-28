@@ -362,9 +362,31 @@ title: Welcome to SSS LAB
 
 
 
+
+
+
+
+## Page width 조정하기
+
+헤더에 다음과 같이 추가
+
+```
+classes: wide
+```
+
+
+
+예시
+
+```yaml
+title: Research
+permalink: /research/
+classes: wide
+```
+
+
+
 ---
-
-
 
 
 
