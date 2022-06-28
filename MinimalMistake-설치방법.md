@@ -172,7 +172,7 @@ To install as a Gem-based theme:
 # Running Local Server
 
 1. Modify contents
-2. Execute:
+2. Execute in CMD (under the website file directory):
 
     ```
      bundle
@@ -355,6 +355,16 @@ title: Welcome to SSS LAB
 좋은 예시로 docs/home.md 를 참고하면 됨.
 
 ------
+
+## Nav Side Bar 변경하기
+
+- 수정 파일 : github.io 폴더 > _data 폴더 > navigation.yml
+
+
+
+---
+
+
 
 
 

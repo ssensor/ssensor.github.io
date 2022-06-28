@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Smart Sensor System Lab"
+title                    : "Smart Sensor Systems Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "Smart Sensor System Lab"
+description              : "Smart Sensor Systems Lab"
 url                      : "https://ssensor.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "S3 LAB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Smart Sensor Sysmtem Lab - HGU"
+  bio              : "Smart Sensor Sysmtems Lab - HGU"
   location         : "경북 포항시 북구 흥해읍"
   location         : "한동대학교 뉴턴홀 107호 "
   email            :

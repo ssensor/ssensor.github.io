@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Smart Sensor System Lab"
+title: "About Smart Sensor Systems Lab"
 classes: wide
 excerpt: "Who we are"
 last_modified_at: 2021-05-11T10:23:16-04:00
