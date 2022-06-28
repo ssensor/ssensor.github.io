@@ -2,7 +2,7 @@
 layout: single
 title: Undergraduate Research
 permalink: /undergraduate/
-toc: true
+toc: false
 toc_sticky: true
 toc_label: "Research"
 ---
