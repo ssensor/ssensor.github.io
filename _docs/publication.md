@@ -30,7 +30,7 @@ Publication List Site for Smart Sensor System Lab
 
 | No.  | Year | Category                  | Journal Title                                                | Others   |
 | ---- | ---- | ------------------------- | ------------------------------------------------------------ | -------- |
-|      |      | Smart  material/Robotics  | (Under  Review) "Friction Variable Rubber Pad using Magnetorheological Elastomer  for Robot Grippers" |          |
+| 27   | 2022 | Smart  material/Robotics  | Park, Jae-Eun, Ha-Neul Shin, Jihyuk Park, Juwon Suh, and Young-Keun Kim. “Friction Variable Rubber Pad Using Magnetorheological Elastomer for Robot Grippers.” Journal of Intelligent Material Systems and Structures, (June 2022). https://doi.org/10.1177/1045389X221103479. |          |
 | 26   | 2022 | Sensor                    | Ghorai,  Prasenjit; Eskandarian , Azim; Kim, Young-Keun; Mehr, Goodarz,, State  Estimation and Motion Prediction of Other Vehicles and Vulnerable Road Users  for Cooperative Autonomous Driving: A Survey     Transactions on Intelligent Transportation Systems (2022) | IF  6.31 |
 | 25   | 2022 | Sensor/Smart  material    | Daeik  Jang, Jae-Eun Park, and Young-Keun Kim, "Evaluation of  (CNT@CIP)-Embedded Magneto-Resistive Sensor Based on Carbon Nanotube and  Carbonyl Iron Powder Polymer Composites", Polymers vol14 no3 (2022) | IF  4.33 |
 | 24   | 2022 | Sensor/Lidar              | Hyeongseok  Song, You, Ji Hwan, Seontaek Oh, Jae Eun Park, and Young Keun Kim,  "Automatic Inspection System for Automotive LiDAR Alignment using a  Cubic Target", IEEE Sensors Journal vol22 no.3 (2022) | IF  3.98 |
