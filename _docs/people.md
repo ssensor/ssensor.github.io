@@ -142,13 +142,13 @@ Young-Keun Kim, Ph.D.
 | 2019 | 김예함  | LiDAR-Camera Inspection                  | 취업준비중                 | 아카데미 42 서울       |
 | 2019 | 이예은  | LiDAR-Camera Inspection                  | 현대자동차                 | 전동화제어개발1팀        |
 | 2019 | 황시환  | 라이다 물체인식 연구                              | KAIST 대학원             | 녹색그린교통대학원        |
-| 2019 | 조성현  | 스마트 CCTV 개발                              |                       |                  |
+| 2019 | 조성현  | 스마트 CCTV 개발                              |   라인        |     개발부서             |
 | 2019 | 김형우  | 스마트 CCTV 개발                              | MIDAS IT              | 데이터 서버           |
 | 2020 | 한우석  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber | DGIST 대학원             |                  |
 | 2020 | 권하은  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber | 한양대학교 대학원             |                  |
-| 2020 | 송윤경  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber |                       |                  |
+| 2020 | 송윤경  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber |                       |현대모비스 |
 | 2020 | 심이삭  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 유학 준비 중               |                  |
 | 2020 | 임주형  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 네패스                   |                  |
 | 2020 | 장영완  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 노타                    |                  |
 | 2020 | 송형석  | LiDAR Extrinsic Calibration using a Cubic Target | 한동대 대학원               |                  |
-| 2020 | 문선빈  | LiDAR Extrinsic Calibration using a Cubic Target | 노타 인턴                 |                  |
+| 2020 | 문선빈  | LiDAR Extrinsic Calibration using a Cubic Target |                  |                  |
