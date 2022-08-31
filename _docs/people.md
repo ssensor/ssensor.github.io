@@ -146,7 +146,7 @@ Young-Keun Kim, Ph.D.
 | 2019 | 김형우  | 스마트 CCTV 개발                              | MIDAS IT              | 데이터 서버           |
 | 2020 | 한우석  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber | DGIST 대학원             |                  |
 | 2020 | 권하은  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber | 한양대학교 대학원             |                  |
-| 2020 | 송윤경  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber |                       |현대모비스 |
+| 2020 | 송윤경  | Investigation on Dynamic-Stress Sensing Property of Stiffness-Variable Magnetorheological elastomer for Application of Tunable Vibration Absorber |                       현대모비스| |
 | 2020 | 심이삭  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 유학 준비 중               |                  |
 | 2020 | 임주형  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 네패스                   |                  |
 | 2020 | 장영완  | YOffleNet: Compressing CNN Model for Object Detection on Embedded Platforms | 노타                    |                  |
