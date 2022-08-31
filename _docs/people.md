@@ -14,7 +14,7 @@ ___
 ## Professor
 Young-Keun Kim, Ph.D.  
 
-<img src="../assets/images/youngkeun.jpg" width="10%"  title="prof" alt="prof">
+<img src="../assets/images/youngkeun.jpg" width="30%"  title="prof" alt="prof">
 
 * 2014: KAIST Mechanical Engineering, Ph.D 
 * 2014~current: Associate Professor, School of Mechanical and Control Engineering, Handong Global University
@@ -28,32 +28,43 @@ Young-Keun Kim, Ph.D.
 
 박재은,  Ph.D Candiate
 
-<img src="../assets/images/jepark.jpg" width="10%" title="student" alt="student">
+<img src="../assets/images/jepark.jpg" width="30%" title="student" alt="student">
 
 <br/>
 
 유지환, Master Degree candidate
 
-<img src="../assets/images/yjh.png" width="10%" title="student" alt="student">
+<img src="../assets/images/yjh.png" width="30%" title="student" alt="student">
 
 
 <br/>
 
 송형석, Master Degree candidate
 
-<img src="../assets/images/profile.png" width="40%" height="30%" title="student" alt="student">
+<img src="../assets/images/profile.png" width="30%" height="30%" title="student" alt="student">
 
 <br/>
 
 김예진, Master Degree candidate
 
-<img src="../assets/images/yejin.png" width="10%"  title="student" alt="student">
+<img src="../assets/images/yejin.png" width="30%"  title="student" alt="student">
 
 <br/>
+
+강희윤, Master Degree candidate
+
+<img src="../assets/images/profile.png" width="30%"  title="student" alt="student">
+
+<br/>
+
+<br/>
+
 
 <br/>
 
 ## Undergraduate Research 
+이준기, Undergraduate
+<br/>
 
 
 
