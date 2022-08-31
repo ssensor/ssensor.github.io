@@ -53,7 +53,7 @@ Young-Keun Kim, Ph.D.
 
 강희윤, Master Degree candidate
 
-<img src="../assets/images/profile.png" width="30%"  title="student" alt="student">
+<img src="../assets/images/khy.png" width="30%"  title="student" alt="student">
 
 <br/>
 
