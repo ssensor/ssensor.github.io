@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Industry Applied AI
-permalink: /ㅑai/
+permalink: /ai/
 classes: wide
 sidebar:
   title: "Research"
