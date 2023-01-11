@@ -48,8 +48,6 @@ docs-research:
     children:
       - title: "Journal"
         url: /publication/
-      - title: "Conference"
-        url: /publication/#publication-conference
       - title: "Project"
         url: /project/
 
