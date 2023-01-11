@@ -84,3 +84,29 @@ Publication List of  Smart Sensor System Lab
 | 3    | 2016 | Robotics                  | Wonsuk  Jung, Young-Keun Kim, Soohyun Kim, “Design of Omnidirectional Shock  Absorption Mechanism and Stabilizing Dynamic Posture of Miniature Sphere Type  Throwing Robo)” , Journal of Institute of Control, Robotics and Systems(in  Korean) vol22, no4, 2016 (SCOPUS, KCI) 정원석, 김영근, 김수현, 구형 투척 로봇의 전방향 충격흡수 구조  설계 및 동적 자세 안정화, 제어로봇시스템학회 논문지, 2016 |      |
 | 2    | 2015 | Robotics                  | Wonsuk  Jung, Young-Keun Kim, Soohyun Kim, “Design of a Miniature Sphere Type  Throwing Robot with an Axial Direction Shock Absorption Mechanism” Vol21  No.4, Journal of Institute of Control, Robotics and Systems(in Korean) vol22,  no4, 2015 (SCOPUS, KCI) 정원석, 김영근, 김수현, “충격흡수 향상을 위한 소형 구형 투척 로봇 구조 설계”  제어.로봇.시스템학회논문지, Vol21 No.4, 2015. |      |
 | 1    | 2010 | Smart  Material/Vibration | Young-Keun  Kim, Hong-Bae Kim, Eunghyun Kim, Kyung-Soo Kim,“Isolating Vibration of a  Miniature Linear Stirling Cryogenic Cooler with a Passive Tuned Vibration  Absorber”, KSME-A. Vol 34. Issue 5. pp 605-609, 2010. (SCOPUS,KCI) 김영근, 김홍배,  김응현, 김경수, “동조질량 진동흡수기를 이용한 미니 저온쿨러의 진동 절연”대한기계학회논문집 A권, 2010. |      |
+
+
+
+## Conference - International 
+
+
+
+| Year | Title                                                        | Conference                                                   | Date                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ |
+| 2020 | Study  the Effect Of Communication Delay For Perception And     Collision Avoidance In Cooperative Autonomous Driving | International  Mechanical Engineering Congress & Exposition (IMECE) 2020 | November  16 – 19, 2020  |
+| 2020 | Design  of Yaw and Tilt Alignment Inspection System for a Low-Resolution 3D LiDAR  Using Planar Target | International  Mechanical Engineering Congress & Exposition (IMECE) 2020 | November  16 – 19, 2020  |
+| 2020 | Feasibility  Study of Reinforcement Learning Control for Magnetorheological Elastomer  Based Tunable Vibration Absorber System | Conference  on Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS) 2020 | September  14 – 16, 2020 |
+| 2020 | Implementation  of Compressed YOLOv3-tiny on FPGA-SoC        | The  Fifth International Conference On Consumer Electronics Asia (IEEE/IEIE  ICCE-Asia 2020) | 2020.11.1~3              |
+| 2019 | FPGA  Acceleration of Bolt Inspection Algorithm for a High-Speed Embedded Machine  Vision System | The  19th International Conference on Control, Automation and Systems | 2019.10.15-2019.10.18    |
+| 2018 | Feasibility  Study of a Stiffness Variable Flexible Coupling Using Magnetorheological  Elastomer for Torsional Vibration Reduction | 2018  International Symposium on Precision Engineering and Sustainable  Manufacturing (PRESM2018) | 2018.  7. 3~7            |
+| 2018 | A  Study of Tunable Sliding Friction of Magneto-Rheological Elastomer for Robot  Application | The  14th International Conference on Motion and Vibration Control | 2018.  8. 5~8            |
+| 2018 | Hardware  Design of Stiffness Controllable Engine Roll Mount using Magneto-Rheological  Elastomer | The  14th International Conference on Motion and Vibration Control | 2018.  8. 5~8            |
+| 2017 | Experiment  of Self-Sensing and Stiffness Variation of Magnetorheological Gel for a  Flexible Stiffness Controllable Device | 120th  International Conference on Mechanical and Aerospace Enigneering (ICMAE) | 2017.  1. 10-11          |
+| 2017 | Design  Study for a Compact and Attachable All-In-One Unit of     Tunable Vibration Absorber Using Magnetorheolgical gel with     Self-Sensing Feedback | 2017  IEEE International Conference on Advanced Intelligent Mechatronics (AIM) | 2017.  7. 3-6            |
+| 2017 | Compensating  Drift of Mono-Visual Odometry Using Road Direction Sign Database | 2017  IEEE 20th International Conference on Intelligent Transportation Systems  (ITSC) | 2017.  10. 16-19         |
+| 2016 | A  Feasibility Study of Vehicle Pose Estimation using Road Sign Information | ICCAS  2016                                                  | 2016.10.17-19            |
+| 2015 | A  Feasibility Study of Designing a Tunable Vibration Absorber using Stiffness  Variable Magnetorheological Gel | IEEE/ASME  International Conference on Advanced Intelligent Mechatronics AIM2015 | 2015.7.7-11              |
+| 2015 | Simple  Triboelectric Generator Applied on Macro-Sized Surface Patterns and Test-Bed  Device to Control Humidity | IEEE/ASME  International Conference on Advanced Intelligent Mechatronics AIM2015 | 2015.7.7-11              |
+| 2014 | Algorithm  of 6-DOF motion detection of curved surface object based on laser distance  sensors | EEE/ASME  International Conference on Advanced Intelligent Mechatronics AIM2014 | 2014.7.7~11              |
+| 2014 | Remote  Position Detection of Steel Coils Using 2D Laser Scanners : Two-line-tracker | ICCAS  2014                                                  | 2014.10.23               |
+| 2014 | A  Visual Measurement System for Coil Shipping Automation    | International  Symposium on Optomechatronic Technologies 2014, (ISOT 2014) | 2014-11-05               |
