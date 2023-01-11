@@ -18,8 +18,7 @@ Project List  of  Smart Sensor System Lab
 
 
 
-# 2023
-## ~
+## 2023
 
 ### 전기로 형강 압연공정 내 빅데이터를 적용한 에너지 효율 향상 및 품질 개선 기술 개발 (2 연차)
 
@@ -79,10 +78,12 @@ Project List  of  Smart Sensor System Lab
 
 
 
+---
 
 
-# 2022
-## ~
+
+## 2022
+
 
 ### 전기로 형강 압연공정 내 빅데이터를 적용한 에너지 효율 향상 및 품질 개선 기술 개발 (1 연차)
 
@@ -163,9 +164,10 @@ Project List  of  Smart Sensor System Lab
 
 
 
+---
 
-# 2021
-## ~
+## 2021
+
 
 ### 준지도 학습 기반의  봉강 표면 결함 자동 분류 시스템 개발 
 
@@ -201,8 +203,10 @@ Project List  of  Smart Sensor System Lab
 
   
 
-# 2020
-## ~
+---
+
+## 2020
+
 
 ### 완성차 라이다 센서 각도 보정 기술 개발 
 
