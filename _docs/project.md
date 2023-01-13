@@ -3,9 +3,6 @@ layout: single
 title: Project List
 type: publication
 permalink: /project/
-toc: false
-toc_sticky: false
-toc_label: "Project"
 sidebar:
   title: "Research"
   nav: "docs-research"
