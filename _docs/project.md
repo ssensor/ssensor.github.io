@@ -3,8 +3,8 @@ layout: single
 title: Project List
 type: publication
 permalink: /project/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: "Project"
 sidebar:
   title: "Research"
@@ -18,7 +18,7 @@ Project List  of  Smart Sensor System Lab
 
 
 
-## 2023
+# 2023
 
 ### 전기로 형강 압연공정 내 빅데이터를 적용한 에너지 효율 향상 및 품질 개선 기술 개발 (2 연차)
 
@@ -82,7 +82,7 @@ Project List  of  Smart Sensor System Lab
 
 
 
-## 2022
+# 2022
 
 
 ### 전기로 형강 압연공정 내 빅데이터를 적용한 에너지 효율 향상 및 품질 개선 기술 개발 (1 연차)
