@@ -7,7 +7,9 @@ permalink: /people/
 
 # LAB Members
 
+<img src="../assets/images/ssslab-members-2023.jpg" width="75%"  title="2023-Spring" alt="prof">
 <img src="../assets/images/ssslab-members.jpg" width="75%"  title="prof" alt="prof">
+
 ___
 <br/>
 
