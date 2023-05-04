@@ -217,6 +217,7 @@ docs 내부의 _pages 폴더는 추후 상단의 카테고리를 선택할 수 �
 ![img](https://user-images.githubusercontent.com/45550607/102005746-c407d580-3d5e-11eb-913a-bb2e36c54f4b.png)
 
 
+# Website Editing
 
 ## Style Modification
 
@@ -240,6 +241,11 @@ For a full explanation of every setting be sure to read the [**Configuration**](
 
 **v4 Breaking Change:** Paths for image headers, overlays, teasers, [galleries]({{ "/docs/helpers/#gallery" | relative_url }}), and [feature rows]({{ "/docs/helpers/#feature-row" | relative_url }}) have changed and now require a full path. Instead of just `image: filename.jpg` you'll need to use the full path eg: `image: /assets/images/filename.jpg`. 
 
+
+## Title, 스타일 변경하기
+- 수정 파일 : github.io 폴더 > _config.yml
+
+**site settings** 내용 변경:  타이틀,  url 
 
 
 ## Font size 변경하기
