@@ -75,7 +75,7 @@ intro:
 
 ------
 
-<img src="assets/images/ssslabmain.jpg"  title="SSSLAB_Logo" class="center">
+<img src="assets/images/iilabmain.jpg"  title="SSSLAB_Logo" class="center">
 
 ------
 
@@ -97,7 +97,7 @@ intro:
 
 # Contact
 
-**스마트센서시스템 연구실**
+**산업지능화 연구실**
 
 경북 포항시 북구 흥해읍 한동대학교 한동로 558 뉴턴홀 107호, 37554 
 
@@ -107,7 +107,7 @@ tel: 054-260-1438
 
 <br/>
 
-**Smart Sensor System Lab**
+**Industry Intelligentization Lab**
 
 NewtonHall 107
 
