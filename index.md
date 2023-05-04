@@ -34,14 +34,13 @@ feature_row:
     btn_label: "Learn more"      
     
 feature_row2:
-  - image_path: /assets/images/bestpaper2022.jpg
+  - image_path: /assets/images/bestpaper2022.png
     alt: "placeholder image 2"
     title: "우수논문상 대한기계학회(본부)  "
     excerpt: '우수논문상 : 대한기계학회(본부) 2022넌 학술대회.  베어링 고장진단을 위한 진동신호 스펙트럼 기반 1D CNN 모델 연구 - 김예진, 김영근'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"    
-    
+    btn_class: "btn--primary"        
 feature_row3:
   - image_path: /assets/images/hs_news.png
     alt: "placeholder image 2"
