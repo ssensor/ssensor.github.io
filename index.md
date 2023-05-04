@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature2.jpg
   actions:
-    - label: "<i class='fa-brands fa-youtube'></i>Youtube Channel"    
+    - label: "<i class='fas fa-youtube'></i>Youtube Channel"    
       url: "https://www.youtube.com/channel/UCbqlYFv4Ag01rmWbIfQUsHw"
 excerpt: >
   School of Mechanical & Control Engineering, Handong Global University.<br />
