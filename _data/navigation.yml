@@ -146,7 +146,7 @@ docs-pulication:
 
 # Sidebar Map
 sidebar:
-  - title: "SSS LAB - HGU"
+  - title: "Industry Intelligentization LAB - HGU"
     children:
     - title: "Address"
       image: http://placehold.it/350x250
