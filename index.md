@@ -58,14 +58,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/pohang_park_icon.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row6:
   - image_path: /assets/images/ksme-capstone-award.jpg
     alt: "placeholder image 2"
     title: "캡스톤디자인경진대회  최우수상 대한기계학회 IT융합부문 2022넌 춘계학술대회 "
@@ -95,9 +87,10 @@ intro:
 ------
 # Highlights
 
-{% include feature_row id="feature_row5" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 ------
 
