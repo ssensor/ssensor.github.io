@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature2.jpg
   actions:
-    - label: "<i class='fas fa-download'></i>Youtube Channel"
+    - label: "<i class='fa-brands fa-youtube'></i>Youtube Channel"    
       url: "https://www.youtube.com/channel/UCbqlYFv4Ag01rmWbIfQUsHw"
 excerpt: >
   School of Mechanical & Control Engineering, Handong Global University.<br />
@@ -34,6 +34,15 @@ feature_row:
     btn_label: "Learn more"      
     
 feature_row2:
+  - image_path: /assets/images/bestpaper2022.jpg
+    alt: "placeholder image 2"
+    title: "우수논문상 대한기계학회(본부)  "
+    excerpt: '우수논문상 : 대한기계학회(본부) 2022넌 학술대회.  베어링 고장진단을 위한 진동신호 스펙트럼 기반 1D CNN 모델 연구 - 김예진, 김영근'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
+    
+feature_row3:
   - image_path: /assets/images/hs_news.png
     alt: "placeholder image 2"
     title: "AI기반 봉강결함기술 개발"
@@ -41,7 +50,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/pohang_park_icon.png
     alt: "placeholder image 2"
     title: "포항시 스마트시티 주차장"
@@ -49,7 +58,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row5:
   - image_path: /assets/images/pohang_park_icon.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
@@ -57,7 +66,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row6:
   - image_path: /assets/images/ksme-capstone-award.jpg
     alt: "placeholder image 2"
     title: "캡스톤디자인경진대회  최우수상 대한기계학회 IT융합부문 2022넌 춘계학술대회 "
@@ -67,7 +76,7 @@ feature_row5:
     btn_class: "btn--primary"    
 
 intro: 
-  - excerpt: ' Welcome to Smart Sensor Systems Lab '
+  - excerpt: ' Welcome to Industry Intelligentization Lab '
 
 ---
 
@@ -75,7 +84,7 @@ intro:
 
 ------
 
-<img src="assets/images/iilabmain.jpg"  title="SSSLAB_Logo" class="center">
+<img src="assets/images/iilabmain.jpg"  title="IILAB_Logo" class="center">
 
 ------
 
